@@ -8,7 +8,7 @@ ETH Zürich
 
 [![project page](https://img.shields.io/badge/project-page-green.svg)](https://siplab.org/projects/HumanoidPose)
 [![arxiv paper](https://img.shields.io/badge/arxiv-paper-red.svg)](#)
-[![video YouTube](https://img.shields.io/badge/video-YouTube-blue.svg)](https://youtu.be/g4Aar2ykqKM)
+[![video YouTube](https://img.shields.io/badge/video-YouTube-blue.svg)](https://youtu.be/DVE6Szo524s)
 
 </div>
 
